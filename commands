@@ -1,0 +1,6 @@
+git pull          # Download latest changes from GitHub
+git fetch         # Fetch updates without merging
+git remote -v     # Show remote repository
+git diff          # Show file changes
+git rm file.txt   # Remove a file
+git mv old new    # Rename a file
