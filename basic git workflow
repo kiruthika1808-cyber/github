@@ -1,0 +1,17 @@
+# Create a repository
+git init
+
+# Check status
+git status
+
+# Add files
+git add .
+
+# Commit changes
+git commit -m "Initial commit"
+
+# Connect to GitHub
+git remote add origin https://github.com/username/repository.git
+
+# Push code
+git push -u origin main
